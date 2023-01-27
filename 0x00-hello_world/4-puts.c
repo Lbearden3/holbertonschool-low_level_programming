@@ -1,5 +1,5 @@
 #!/bin/bash
-#include <stdoi.h>
+#include <stdio.h>
 
 void main (void);
 
