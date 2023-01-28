@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * Main - Starting point for program execution
+ */
+
 int main(void)
 {
 
